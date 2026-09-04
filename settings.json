@@ -1,0 +1,19 @@
+{
+  "threshold_mb": 500,
+  "auto_clean_delay_minutes": 60,
+  "browsers": [
+    "chrome",
+    "firefox",
+    "msedge",
+    "brave",
+    "opera",
+    "vivaldi",
+    "waterfox",
+    "arc"
+  ],
+  "auto_clean_on_startup": true,
+  "minimize_to_tray": true,
+  "chart_history_seconds": 120,
+  "chart_update_interval_ms": 1000,
+  "gpu_cleanup_enabled": true
+}
